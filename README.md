@@ -11,7 +11,8 @@ Camera control
 - hold right mouse button and move mouse to shift camera in x,y-directions
 
 Light source control
-- use arrow keys to move lightsource left/right/up/down
-- use PageUp/PageDown to move lightsource in z-direction
+- use arrow keys to move light source left/right/up/down
+- use PageUp/PageDown to move light source in z-direction
 
+General
 - press R to reset the scene
