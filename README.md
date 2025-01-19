@@ -10,7 +10,7 @@ Camera control
 - hold left mouse button and move mouse to rotate the camera
 - hold right mouse button and move mouse to shift camera in x,y-directions
 
-Lightsource control
+Light source control
 - use arrow keys to move lightsource left/right/up/down
 - use PageUp/PageDown to move lightsource in z-direction
 
