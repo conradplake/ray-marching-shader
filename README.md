@@ -1,5 +1,5 @@
 # ray-marching-shader
-A gframe shader to render surfaces using signed distance functions.
+A gframe shader to render surfaces using signed distance functions
 
 Contains a simple test app showing a circle and cube above a ground plane with a basic soft shadow.
 
