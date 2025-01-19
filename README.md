@@ -3,7 +3,7 @@ A gframe shader to render surfaces using signed distance functions.
 
 Contains a simple test app showing a circle and cube above a ground plane with a basic soft shadow.
 
-![alt text](https://github.com/conradplake/ray-marching-shader/blob/master/TestApp_Screenshot.png "Test application screenshot")
+![alt text](https://github.com/conradplake/ray-marching-shader/blob/master/Screenshot.png "Test application screenshot")
 
 Camera control
 - use WASD keys to move the camera
