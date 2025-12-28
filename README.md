@@ -1,7 +1,7 @@
 # ray-marching-shader
 A gframe shader to render surfaces using signed distance functions.
 
-Comes with a simple test app showing a circle and cube above a ground plane with soft shadow enabled.
+Comes with a simple test app showing a sphere and cube above a ground plane with soft shadows enabled.
 
 ![alt text](https://github.com/conradplake/ray-marching-shader/blob/main/screenshot.PNG "Screenshot")
 
@@ -16,3 +16,4 @@ Light source control
 
 General
 - press R to reset the scene
+- press ESC to quit
